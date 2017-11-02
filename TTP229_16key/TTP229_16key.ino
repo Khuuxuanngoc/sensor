@@ -21,6 +21,7 @@ void loop()
   }
     
   old = Key;
+  delay(10);
 }
 
 byte getkey(void)
